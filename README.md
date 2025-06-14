@@ -25,10 +25,8 @@ AutoAgent is a fully autonomous AI assistant that automates browser-based and pr
 ## 📂 Directory Structure
 
 ```
-Project_VERA/
-└── GenAi/
-    └── LangChain/
-        └── agents_5/
+
+        agents_5/
             ├── finalagent.py
             ├── tools/
             ├── utils/
